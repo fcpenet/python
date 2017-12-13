@@ -1,0 +1,9 @@
+[DEFAULT]
+username=root
+password=geneva
+host=127.0.0.1
+db=IT131L
+
+
+[RESEARCH]
+db=RESEARCH
